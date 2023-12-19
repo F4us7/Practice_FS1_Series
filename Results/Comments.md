@@ -6,5 +6,6 @@
 2. Ващенко М.И. (Вариант 5): отлично (https://github.com/maksimvaig/-3-);
 3. Кирьянова Д.Р. (Вариант 13): отлично (https://github.com/DolenKollin/Kiryanova_Var_13);
 4. Шодиев М.Ш. (Вариант 24): отлично;
-5. Иванова М.Р. (Вариант 12): отлично (https://github.com/mariia-iv/Ivanova_12var.git).
-+ Варианты 15 и 20 ожидают минимальных технических правок.
+5. Иванова М.Р. (Вариант 12): отлично (https://github.com/mariia-iv/Ivanova_12var.git);
+6. Михайленко В.В. (Вариант 15): отлично (https://github.com/Lera1M/Mihailenko_Var_15).
++ Вариант 20 ожидает минимальных технических правок.
