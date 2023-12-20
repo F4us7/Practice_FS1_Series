@@ -21,7 +21,7 @@ while x <= b:
     n = 0
     while abs(coefficient) > 1e-8:
         n += 1
-        coefficient *= ((-1) * math.factorial(2*n-1) * (2*n-1) * x**2)/(2*(n+1) * math.factorial(abs(2*n+1)))
+        coefficient *= ((-1) * math.factorial(2*n-1) * (2*n-1) * x**2)/((2*n+1) * math.factorial(abs(2*n+1)))
         coefficients.append(coefficient)
 
     coefficients.pop()
