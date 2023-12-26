@@ -13,4 +13,5 @@
 9. Синетар А.А. (Вариант 16): отлично (https://github.com/Nastyamas16/Sinetar.A.A.-Practice_16_var.git);
 10. Багура Д.А. (Вариант 3): отлично;
 11. Маханенко Н.В. (Вариант 14): отлично (https://github.com/Melly-chan/FinalProjects/tree/main);
-12. Анурова Е.Д. (Вариант 2): отлично (https://github.com/ElizaAnurova/Anurova_var2).
+12. Анурова Е.Д. (Вариант 2): отлично (https://github.com/ElizaAnurova/Anurova_var2);
+13. Гвоздев П.А. (Вариант 7): отлично.
